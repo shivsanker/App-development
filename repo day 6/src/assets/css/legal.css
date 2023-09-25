@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap');
+.privacy{
+    font-size: 37px;
+    font-weight: bolder;
+    text-align: center;
+}
+.notes{
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left:5px;
+}
+.notes1{
+    font-family: 'Inter';
+    text-align: justify;
+}
+.terms{
+    text-align: center;
+    font-weight: 400;
+    font-size: 40px;
+    margin-top: -200px;
+}
+.terms1{
+    font-family: 'Inter';
+    text-align: justify;
+}
+.terms3{
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left:5px;
+}
+
+.faq-question{
+    width: 1000px;
+    background-color: rgb(255, 255, 255);
+    font-size: 20px;
+    padding: 10px;
+    margin-left: 250px;
+    cursor: pointer;
+    margin-top: 15px;
+    font-family: 'Jost';
+    color: rgb(0, 0, 0);
+    box-shadow: 0px 0px 5px 0px rgb(194, 191, 191);
+}
+.faq-question2{
+    background-color: rgb(249, 246, 246);
+    color: black;
+}
+.faq-answer{
+   color: rgb(0, 0, 0);
+   font-size: 17px;
+   width: 1000px;
+   font-family: 'Quicksand';
+   text-align: justify;
+   border-left: 5px solid rgb(0, 0, 0);
+   line-height: 4vh;
+}
+.ans-text{
+    margin-left: 20px;
+}
